@@ -1,19 +1,19 @@
 # Airbnb NYC Dataset Analysis and Predictions
 
 ## Overview
-The Airbnb NYC dataset offers detailed insights into Airbnb listings across New York City in 2019. It includes information on neighborhoods, property types, pricing, availability, host details, and customer reviews. This dataset is instrumental for analyzing market trends, customer preferences, and short-term rental dynamics in one of the world's most competitive markets. It supports data-driven decision-making for optimizing pricing, identifying high-performing neighborhoods, and improving resource allocation.
+The Airbnb NYC dataset offers detailed insights into Airbnb listings across New York City in 2019. It includes information on neighborhoods, property types, pricing, availability, host details, and customer reviews. This dataset is instrumental for analysing market trends, customer preferences, and short-term rental dynamics in one of the world's most competitive markets. It supports data-driven decision-making for optimising pricing, identifying high-performing neighborhoods, and improving resource allocation.
 
-By studying customer demand trends and host behavior, the analysis enhances customer experiences, refines marketing strategies, and identifies growth opportunities in underutilized areas.
+By studying customer demand trends and host behavior, the analysis enhances customer experiences, refines marketing strategies, and identifies growth opportunities in underutilised areas.
 
 ## Objective
-The primary goal is to utilize the Airbnb NYC dataset and machine learning models to predict growth trends in Airbnb listings and average pricing for 2019.
+The primary goal is to utilise the Airbnb NYC dataset and machine learning models to predict growth trends in Airbnb listings and average pricing for 2019.
 
 ---
 
 ## Methodology
 
 ### 1. Methodology Overview
-A systematic approach was employed, combining data cleaning, exploratory data analysis (EDA), and predictive modeling. Python served as the primary tool, leveraging libraries for data manipulation, visualization, and machine learning.
+A systematic approach was employed, combining data cleaning, exploratory data analysis (EDA), and predictive modeling. Python served as the primary tool, leveraging libraries for data manipulation, visualisation, and machine learning.
 
 ### 2. Data Collection and Preprocessing
 - **Source**: Publicly available Airbnb repository.
@@ -36,9 +36,9 @@ A systematic approach was employed, combining data cleaning, exploratory data an
   - Trend analysis via correlation coefficients.
   - Neighborhood grouping for average prices.
 - **Predictive Modeling**:
-  - Historical data (2011–2018) on inactive properties informed a polynomial model optimized with RMSE to predict inactive properties in 2019.
+  - Historical data (2011–2018) on inactive properties informed a polynomial model optimised with RMSE to predict inactive properties in 2019.
   - Subtracted predictions from total listings to refine the dataset.
-- **Feature Engineering**: Utilized Scikit-learn’s PolynomialFeatures.
+- **Feature Engineering**: Utilised Scikit-learn’s PolynomialFeatures.
 - **Evaluation Metrics**: MAE, MSE, and R².
 
 ### 5. Tools and Technologies
