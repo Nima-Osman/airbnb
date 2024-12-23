@@ -38,6 +38,9 @@ A systematic approach was employed, combining data cleaning, exploratory data an
 - **Predictive Modeling**:
   - Historical data (2011–2018) on inactive properties informed a polynomial model optimised with RMSE to predict inactive properties in 2019.
   - Subtracted predictions from total listings to refine the dataset.
+
+[Exploratory Data Analysis](eda.ipynb)
+[Predictive model code](nyc_properties_analysis.ipynb)
 - **Feature Engineering**: Utilised Scikit-learn’s PolynomialFeatures.
 - **Evaluation Metrics**: MAE, MSE, and R².
 
