@@ -25,7 +25,7 @@ A systematic approach was employed, combining data cleaning, exploratory data an
 
 ### 3. Exploratory Data Analysis (EDA)
 - **Statistical Summaries**: Provided an overview of key metrics.
-- **Visualizations**:
+- **Visualisation**:
   - Histograms, scatterplots, and box plots to highlight trends and anomalies.
   - Scatterplots of latitude and longitude to reveal spatial trends.
   - Categorical analysis to explore room type distributions and host behavior.
@@ -73,10 +73,24 @@ A systematic approach was employed, combining data cleaning, exploratory data an
 
 ## Visualizations
 - **Figure 1**: Total number of Airbnb reviews by location.
+<p align="center">
+<img src="images\airbnb2.png"  alt="Centered Image" title="Entity-Relationship Diagram" width="500">
+</p>
 - **Figure 2**: Distribution of Airbnb property types by location.
+<p align="center">
+<img src="images\airbnb3.png"  alt="Centered Image" title="Entity-Relationship Diagram" width="500">
+</p>
+<p align="center">
+<img src="images\airbnb4.png"  alt="Centered Image" title="Entity-Relationship Diagram" width="500">
+</p>
 - **Figure 3**: Predicted average prices across boroughs.
+<p align="center">
+<img src="images\airbnb5.png"  alt="Centered Image" title="Entity-Relationship Diagram" width="500">
+</p>
 - **Figure 4**: Spatial scatterplot of predicted Airbnb prices in NYC.
-
+<p align="center">
+<img src="images\airbnb7.png"  alt="Centered Image" title="Entity-Relationship Diagram" width="500">
+</p>
 ---
 
 ## Conclusion and Recommendations
