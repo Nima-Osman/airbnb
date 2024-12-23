@@ -92,8 +92,9 @@ A systematic approach was employed, combining data cleaning, exploratory data an
 
 - **Figure 4**: Spatial scatterplot of predicted Airbnb prices in NYC.
 <p align="center">
-<img src="images\airbnb7.png"  alt="Centered Image" title="Entity-Relationship Diagram" width="500">
+<img src="images\airbnb7.png"  alt="Centered Image" title="Entity-Relationship Diagram">
 </p>
+
 ---
 
 ## Conclusion and Recommendations
